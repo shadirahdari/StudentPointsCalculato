@@ -1,2 +1,19 @@
-The Student Points Calculator is an application designed to calculate students' final grades based on their homework and exam scores. Users can input scores for each student, and the app will compute the final grade using either the average or median method.
-This tool is useful for instructors or students who need an easy way to track academic performance and evaluate final results based on different grading criteria.
+# Raziyeh Rahdari
+
+This project consists of a Node.js script that reads student data from a students.txt file and calculates the average final grades and median for each student.
+
+## Prerequisites
+
+Go to the Node.js official website https://nodejs.org
+- Click on the "Downloads" tab and choose the Windows installer (LTS version recommended).
+- Open Command Prompt (search for "cmd" in the Start menu) and run the following command:
+    
+    `node -v`
+
+    You should see the version number of Node.js displayed.
+
+## Run the Script
+
+Open your terminal, navigate to the directory where your script and students.txt file are located, and run the following command:
+
+`node index.js`
