@@ -1,2 +1,7 @@
-The Student Points Calculator is an application designed to calculate students' final grades based on their homework and exam scores. Users can input scores for each student, and the app will compute the final grade using either the average or median method.
-This tool is useful for instructors or students who need an easy way to track academic performance and evaluate final results based on different grading criteria.
+# Raziyeh Rahdari
+
+This program calculates the final grade for each student based on a weighted average of their homework scores and exam score.
+
+Final Score = (0.4 × Average Scores)+(0.6 × Exam Score)
+
+Final Median = (0.4 × Median of Scores)+(0.6 × Exam Score)
