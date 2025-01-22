@@ -1,4 +1,4 @@
-# Raziyeh Rahdari
+# Raziyeh Rahdari - CPP
 
 This program calculates the final grade for each student based on a weighted average of their homework scores and exam score.
 
